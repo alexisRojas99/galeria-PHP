@@ -1,6 +1,6 @@
 # galeria-PHP
 This proyect created with PHP and MySQL
 
-#Screenshots
+# Screenshots
 
 ![](screenshots/galeria-php.png)
